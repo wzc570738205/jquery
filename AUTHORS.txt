@@ -19,7 +19,8 @@ Paul Mclanahan <pmclanahan@gmail.com>
 David Serduke <davidserduke@gmail.com>
 Richard D. Worth <rdworth@gmail.com>
 Scott González <scott.gonzalez@gmail.com>
-Ariel Flesler <aflesler@gmail.com>
+Ariel Flesler <aflesler@gmail.com> 
+asd
 Jon Evans <jon@springyweb.com>
 TJ Holowaychuk <tj@vision-media.ca>
 Michael Bensoussan <mickey@seesmic.com>
